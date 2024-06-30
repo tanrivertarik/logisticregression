@@ -89,7 +89,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Special thanks to the creators of the datasets used in this study.
 - Thanks to the open-source community for providing the tools and libraries that made this study possible.
-- Acknowledgement to Prof. Dr. Recai Kılıç for supervision and guidance.
+
 
 ---
 
